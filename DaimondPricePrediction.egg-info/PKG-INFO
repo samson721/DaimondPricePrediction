@@ -1,8 +1,0 @@
-Metadata-Version: 2.1
-Name: DaimondPricePrediction
-Version: 0.0.1
-Author: Samson Jadhav
-Author-email: samyjadhav2001@gmail.com
-Requires-Dist: pandas
-Requires-Dist: numpy
-Requires-Dist: flask
