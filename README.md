@@ -1,1 +1,1 @@
-"# DaimondPricePrediction" 
+# DaimondPricePrediction
